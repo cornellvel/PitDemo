@@ -1,0 +1,173 @@
+newmtl Carpet pattern 03 - Duplicate
+Kd 0.8313726 0.8313726 0.8313726
+map_Kd null
+illum 2
+
+newmtl Sprites/Default
+Kd 1 1 1
+illum 2
+
+newmtl plastic mat 1
+Kd 0.1224489 0.1224489 0.1224489
+illum 2
+
+newmtl lens
+Kd 0.7392408 0.8157141 0.8308824
+Ks 0.2 0.2 0.2
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl plastic black
+Kd 0 0 0
+illum 2
+
+newmtl plastic belt
+Kd 0 0 0
+Ks 0.4322556 0.4703794 0.4779411
+map_Bump null
+illum 2
+
+newmtl plastic mat 2
+Kd 0 0 0
+illum 2
+
+newmtl foam
+Kd 0.08088235 0.08088235 0.08088235
+Ks 0.2 0.2 0.2
+map_Bump null
+illum 2
+
+newmtl Carpet pattern 03
+Kd 0.8313726 0.8313726 0.8313726
+map_Kd null
+illum 2
+
+newmtl book 25
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl book1
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl book7
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl book24
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl bookency4
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl book10
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl metal-texture-7
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl book23
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl book22
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl frosted glass
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl black wheels
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl bookency1
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl metal_texture_set_02_hd_picture_170838
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl book9
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl book4
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl bookdict
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl Default-Material
+Kd 1 1 1
+illum 2
+
+newmtl glass_texture
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl No Name
+map_Kd null
+illum 2
+
+newmtl wood-04
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl 01 - Default
+Kd 0.5882353 0.5882353 0.5882353
+illum 2
+
+newmtl Material #47
+Kd 0.5879999 0.5879999 0.5879999
+illum 2
+
+newmtl Whiteboard Test
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl white walls
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl LCD blackbody
+Kd 0.06666665 0.06666665 0.06666665
+illum 2
+
+newmtl dolphins
+map_Kd null
+illum 2
+
+newmtl keyboardrest
+Kd 0.01568628 0.01568628 0.01568628
+illum 2
+
+newmtl keyboard_top
+map_Kd null
+illum 2
+
+newmtl mouseblack
+Kd 0.07058821 0.07058821 0.07058821
+illum 2
+
+newmtl 13 - Default
+Kd 0.5879999 0.5879999 0.5879999
+illum 2
+
